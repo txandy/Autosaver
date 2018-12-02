@@ -1,0 +1,16 @@
+{
+    "category": "WololoGames/Autosaver", 
+    "description": "Autosaver plugin for Unity3D", 
+    "gitHead": "0d2114387a99011be685886f8ea902242e323e70", 
+    "keywords": [
+        "autosaver", 
+        "unity"
+    ], 
+    "name": "com.wolologames.autosave", 
+    "repository": {
+        "type": "git", 
+        "url": "ssh://git@github.com:txandy/Autosaver.git"
+    }, 
+    "unity": "2017.4", 
+    "version": "1.0.0"
+}
